@@ -2,7 +2,7 @@ Virtual Voting Machine
 The Virtual Voting Machine is a software application designed to simulate the process of voting electronically. It provides a user-friendly interface for voters to cast their votes and for administrators to manage the voting process. This README file provides an overview of the application and instructions for setting it up and using it.
 
 Features
-User Registration: Voters can create user accounts by providing their personal information and verifying their identity.
+User Registration: Voters can create user accounts by providing their personal information and verifying their idenghgm,,h/l.tity.
 Ballot Creation: Administrators can create and customize the ballots for different elections, including candidate or proposal information.
 Secure Voting: The application ensures the confidentiality and integrity of votes through encryption and cryptographic protocols.
 Accessible Interface: The user interface is designed to be intuitive and accessible to all voters, including those with disabilities.
